@@ -6,9 +6,9 @@
 
 
 
-- 🌱 I’m currently learning **Mobile Application Development in Android Studio.**
+- 🌱 I’m currently learning **Data Structure and Algorithm.**
 
-- 📄 You can ask me about **HTML, CSS, React, Python**
+- 📄 I'm proficient in "Java"
 
 - 📫 How to reach me **dniladri597@gmail.com**
 
