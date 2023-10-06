@@ -6,9 +6,9 @@
 
 
 
-- 🌱 I’m currently learning **Data Structure and Algorithm.**
+- 🌱 I’m currently learning **Full Stack Web Development from Dr. Angela Yu.**
 
-- 📄 I'm proficient in "Java"
+- 📄 I'm proficient in "Java and Data Structures"
 
 - 📫 How to reach me **dniladri597@gmail.com**
 
