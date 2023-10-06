@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **dniladri597@gmail.com**
 
-- ⚡ Fun fact **I am excessively patient😂 and kind of funny too, basically not boring haha😂**
+- ⚡ Fun fact **I am a person who loves to learn new skills, improve it and be a better version of myself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
