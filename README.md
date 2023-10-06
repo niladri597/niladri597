@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Full Stack Web Development from Dr. Angela Yu.**
+- 🌱 I’m currently learning **Full Stack Web Development.**
 
 - 📄 I'm proficient in "Java and Data Structures"
 
